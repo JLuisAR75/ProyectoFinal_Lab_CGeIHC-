@@ -1,2 +1,2 @@
-# ProyectoFinal_Lab_CGeIHC-
-Proyecto Final
+# Proyecto_Lab_CG
+Proyecto Final de Laboratorio de CG
